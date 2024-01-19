@@ -160,7 +160,7 @@ export const RESUME_DATA = {
       techStack: ["Fly.io", "Docker"],
       description: "Deployed the Micronbin application onto fly.io's micro VM infrastructure, ensuring its seamless operation within that environment.",
       link: {
-        href: "https://getyearprogress.com/",
+        href: "https://github.com/manjularajamani/microbin",
       },
     },
     {
@@ -197,7 +197,7 @@ export const RESUME_DATA = {
       description:
         "I drafted Helm charts for TheHive application and submitted the pull request, contributing to the project's infrastructure enhancement.",
       link: {
-        href: "https://mobilevikings.pl/",
+        href: "https://github.com/manjularajamani/helm-charts/tree/thehive",
       },
     },
   ],
