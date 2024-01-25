@@ -177,7 +177,7 @@ export const RESUME_DATA = {
       // },
     },
     {
-      title: "VOLUNTEER APP MANAGEMENT",
+      title: "VOLUNTEER MANAGEMENT APP",
       techStack: [
         "AWS ECS",
         "GitHub Action",
