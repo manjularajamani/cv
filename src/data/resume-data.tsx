@@ -32,7 +32,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://manjula.fyi",
   contact: {
     email: "manjula.rajamani@protonmail.com",
-    // tel: "+48530213401",
+    tel: "+916381844014",
     social: [
       {
         name: "GitHub",
