@@ -99,13 +99,12 @@ export const RESUME_DATA = {
   ],
   skills: [
     "AWS",
-    "GCP",
     "Azure",
     "Jenkins",
     "Kubernetes",
     "Docker",
     "Terraform",
-    "Fly.io",
+    "Cloud Formation",
   ],
   projects: [
     {
